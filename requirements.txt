@@ -3,4 +3,5 @@ langchain
 langsmith
 python-dotenv
 langchain-groq 
+streamlit
 langchain_tavily
